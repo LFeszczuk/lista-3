@@ -1,0 +1,6 @@
+W zadaniu 4 nalezało poleceniem 
+mknod fifo p
+utworzyc pipa po czym poleceniami 
+cat plik > fifo
+cat fifo 
+wczytywac i odczytywac 
